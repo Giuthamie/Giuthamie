@@ -2,10 +2,6 @@
 
 
 
-- 🔭 Estudante de Front-End na Laboratoria Brasil
-- 🌱 Estudando: HTML5, CSS3 e Javascript
-
-
 <div>
   <a href="https://github.com/Giuthamie">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giuthamie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
